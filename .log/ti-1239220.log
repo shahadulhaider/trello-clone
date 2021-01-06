@@ -1,0 +1,19 @@
+[19:48:48.178] Global cache location '/home/jewel/.cache/typescript/3.7', safe file path '/home/jewel/code/projects/trello-clone/node_modules/typescript/lib/typingSafeList.json', types map path /home/jewel/code/projects/trello-clone/node_modules/typescript/lib/typesMap.json
+[19:48:48.179] Processing cache location '/home/jewel/.cache/typescript/3.7'
+[19:48:48.179] Trying to find '/home/jewel/.cache/typescript/3.7/package.json'...
+[19:48:48.180] Loaded content of '/home/jewel/.cache/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.510"}}
+[19:48:48.180] Loaded content of '/home/jewel/.cache/typescript/3.7/package-lock.json'
+[19:48:48.180] Finished processing cache location '/home/jewel/.cache/typescript/3.7'
+[19:48:48.181] Process id: 1239227
+[19:48:48.181] NPM location: /home/jewel/.nvm/versions/node/v14.2.0/bin/npm (explicit '--npmLocation' not  provided)
+[19:48:48.181] validateDefaultNpmLocation: false
+[19:48:48.181] Npm config file: /home/jewel/.cache/typescript/3.7/package.json
+[19:48:48.182] Updating types-registry npm package...
+[19:48:48.182] Exec: /home/jewel/.nvm/versions/node/v14.2.0/bin/npm install --ignore-scripts types-registry@latest
+[19:48:49.983]     Succeeded. stdout:
+    + types-registry@0.1.510
+    updated 1 package and audited 1 package in 1.007s
+found 0 vulnerabilities
+
+
+[19:48:49.983] Updated types-registry npm package

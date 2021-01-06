@@ -1,0 +1,99 @@
+Info 0    [13:55:40.687] Starting TS Server
+Info 1    [13:55:40.687] Version: 3.7.5
+Info 2    [13:55:40.687] Arguments: /home/jewel/.nvm/versions/node/v14.2.0/bin/node /home/jewel/code/projects/trello-clone/node_modules/.bin/tsserver --logFile /home/jewel/code/projects/trello-clone/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/016f91df4c2229e28b428e032060f919/tscancellation*
+Info 3    [13:55:40.687] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [13:55:40.718] Search path: /home/jewel/code/projects/trello-clone/src/components
+Info 5    [13:55:40.719] For info: /home/jewel/code/projects/trello-clone/src/components/styles.ts :: Config file name: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 6    [13:55:40.720] Opened configuration file /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 7    [13:55:40.773] Config: /home/jewel/code/projects/trello-clone/tsconfig.json : {
+ "rootNames": [
+  "/home/jewel/code/projects/trello-clone/src/index.tsx",
+  "/home/jewel/code/projects/trello-clone/src/react-app-env.d.ts",
+  "/home/jewel/code/projects/trello-clone/src/setupTests.ts",
+  "/home/jewel/code/projects/trello-clone/src/components/AddNewItem.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/App.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/Card.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/Column.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/CustomDragLayer.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/NewItemForm.tsx",
+  "/home/jewel/code/projects/trello-clone/src/components/styles.ts",
+  "/home/jewel/code/projects/trello-clone/src/constants/index.ts",
+  "/home/jewel/code/projects/trello-clone/src/context/index.tsx",
+  "/home/jewel/code/projects/trello-clone/src/hooks/useAppState.ts",
+  "/home/jewel/code/projects/trello-clone/src/hooks/useFocus.ts",
+  "/home/jewel/code/projects/trello-clone/src/hooks/useItemDrag.ts",
+  "/home/jewel/code/projects/trello-clone/src/store/actions.ts",
+  "/home/jewel/code/projects/trello-clone/src/store/appData.ts",
+  "/home/jewel/code/projects/trello-clone/src/store/reducer.ts",
+  "/home/jewel/code/projects/trello-clone/src/types/index.ts",
+  "/home/jewel/code/projects/trello-clone/src/utils/findItemIndexById.ts",
+  "/home/jewel/code/projects/trello-clone/src/utils/isHidden.ts",
+  "/home/jewel/code/projects/trello-clone/src/utils/moveItem.ts"
+ ],
+ "options": {
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "noEmit": true,
+  "jsx": 2,
+  "configFilePath": "/home/jewel/code/projects/trello-clone/tsconfig.json"
+ }
+}
+Info 8    [13:55:41.172] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 9    [13:56:8.584] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 1 structureChanged: true Elapsed: 27412ms
+Info 10   [13:56:8.584] Project '/home/jewel/code/projects/trello-clone/tsconfig.json' (Configured) 
+Info 11   [13:56:8.584] 	Files (204)
+
+Info 12   [13:56:8.584] -----------------------------------------------
+Info 13   [13:56:8.668] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 14   [13:56:8.706] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 2 structureChanged: false Elapsed: 38ms
+Info 15   [13:56:8.706] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 16   [13:56:8.707] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 17   [13:56:8.737] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 3 structureChanged: false Elapsed: 30ms
+Info 18   [13:56:8.738] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 19   [13:56:8.738] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 20   [13:56:8.774] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 4 structureChanged: false Elapsed: 36ms
+Info 21   [13:56:8.774] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 22   [13:56:8.778] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 23   [13:56:8.797] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 5 structureChanged: false Elapsed: 19ms
+Info 24   [13:56:8.797] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 25   [13:56:8.798] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 26   [13:56:8.808] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 6 structureChanged: false Elapsed: 10ms
+Info 27   [13:56:8.808] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 28   [13:56:8.809] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 29   [13:56:8.824] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 7 structureChanged: false Elapsed: 15ms
+Info 30   [13:56:8.824] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 31   [13:56:8.824] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 32   [13:56:8.834] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 8 structureChanged: false Elapsed: 10ms
+Info 33   [13:56:8.834] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 34   [13:56:8.835] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 35   [13:56:8.849] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 9 structureChanged: false Elapsed: 14ms
+Info 36   [13:56:8.849] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 37   [13:56:8.852] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 38   [13:56:8.862] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 10 structureChanged: false Elapsed: 10ms
+Info 39   [13:56:8.862] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 40   [13:56:8.885] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 41   [13:56:8.895] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 11 structureChanged: false Elapsed: 10ms
+Info 42   [13:56:8.895] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 43   [13:56:8.896] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 44   [13:56:8.916] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 12 structureChanged: false Elapsed: 20ms
+Info 45   [13:56:8.916] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 46   [13:56:25.697] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 47   [13:56:25.733] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 13 structureChanged: false Elapsed: 36ms
+Info 48   [13:56:25.734] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 49   [13:56:38.31] Starting updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json
+Info 50   [13:56:38.44] Finishing updateGraphWorker: Project: /home/jewel/code/projects/trello-clone/tsconfig.json Version: 14 structureChanged: false Elapsed: 13ms
+Info 51   [13:56:38.44] Different program with same set of files:: oldProgram.structureIsReused:: 2
